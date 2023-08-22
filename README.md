@@ -1,4 +1,4 @@
-# Bitwise_Operator:-
+# Bitwise Operator:-
 
 The repository has solution regarding bitwise operation in Java.
 
